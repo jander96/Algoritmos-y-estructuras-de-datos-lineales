@@ -10,4 +10,7 @@ Podemos tener varias conbinaciones:
 + Uno avanza desde el inicio hasta el final y el otro desde el final hasta el inicio de la lista 
 + Ambos avanzan en el mismo sentido pero uno consecutivo al otro 
 + Ambos avanzan en el mismo sentido pero a ritmos diferentes ejemplo uno puede avanzar 2 posiciones y el primer solo una por lo que tenemos un apuntador el doble de veloz que el otro
-+ Otras combinaciones que no conozco jj
++ Otras combinaciones que no conozco
+
+
+Estos apuntadores pueden ser muy utiles en mis algoritmos, los cuales veremos más adelante
