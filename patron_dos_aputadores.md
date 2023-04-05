@@ -1,9 +1,9 @@
 # Patrón de dos apuntadores #
 
-Este es un patron muy utilizado para trabajar con las **listas** y es que tenemos
+Este es un patron muy utilizado para trabajar con las **listas / array** y es que tenemos
 a dos enteros que se refieren a posiciones de indices diferentes en la lista y lo vamos moviendo dependiendo de nuestro problema.
 
-Aplicando la logica cuando _iteramos_ las listas ya sea a traves de un for o con un while podemos tener referencias a elementos en diferentes posiciones de dicha lista.
+Aplicando la logica cuando _iteramos_ las listas / array ya sea a traves de un for o con un while podemos tener referencias a elementos en diferentes posiciones de dicha lista.
 
 Podemos tener varias conbinaciones:
 
